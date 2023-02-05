@@ -30,4 +30,7 @@ p {
     color:  hsl(220, 15%, 55%);
 
 }
+@media screen and (min-width : 375px){
+    
+}
  
